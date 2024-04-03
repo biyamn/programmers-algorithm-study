@@ -1,17 +1,21 @@
+// 채점 결과
+// 정확성: 100.0
+// 합계: 100.0 / 100.0
+
 /* 
-        1. 1차원 array를
-        2. i번째 숫자부터 j번째 숫자까지 자른뒤
-        3. 정렬
-        4. k번째 수 구하기
-        5. 를 i,j,k 원소로 가지는 commands 2차원 배열을 참조하여
-        6. 값을 구한 뒤 answer 배열로 담아 return.
+  1. 1차원 array를
+  2. i번째 숫자부터 j번째 숫자까지 자른뒤
+  3. 정렬
+  4. k번째 수 구하기
+  5. 를 i,j,k 원소로 가지는 commands 2차원 배열을 참조하여
+  6. 값을 구한 뒤 answer 배열로 담아 return.
 */
 // const array = [1, 5, 2, 6, 3, 7, 4];
-// commands = [[2, 5, 3], [4, 4, 1], [1, 7, 3]];
+// const commands = [[2, 5, 3], [4, 4, 1], [1, 7, 3]];
 
 // Test2 반례
 const array =[10, 2];
-commands = [[1, 2, 1]];
+const commands = [[1, 2, 1]];
 
 let solution = (array, commands) => {
   let answer = [];
@@ -29,7 +33,7 @@ let solution = (array, commands) => {
     // 3. iterator 사용하여 정렬된 arr[k]값 도출
     answer = [...answer, array.slice(first, second).sort((a,b) => a-b)[cmdIter.next().value -1]];
   });
-  console.log('[answer] : ',answer);
+
   return answer;
 }
 
