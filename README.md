@@ -54,6 +54,7 @@
 - 예시: [정렬] K번째수
 
 #### Branch
+
 - 스터디가 끝난 후 main branch로 merge.
 - 기본적으로 올릴 때는 각자 이름으로 된 branch에 올림.
 
@@ -71,10 +72,11 @@
 
 ## 🗓️ 스터디 일정
 
-| **주차** | **일시**      | **분류** | **문제 1**                                                                 | **문제 2**                                                                            | **문제 3**                                                                       | **진행 현황** |
-| -------- | ------------- | -------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------- |
-| 1주차    | 24.04.03 10시 | 정렬     | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)       |               |
-| 2주차    | 24.04.10 10시 | 해시     | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)   | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |               |
+| **주차** | **일시**      | **분류**      | **문제 1**                                                                 | **문제 2**                                                                            | **문제 3**                                                                       | **진행 현황** |
+| -------- | ------------- | ------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------- |
+| 1주차    | 24.04.03 10시 | 정렬          | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)       | `진행 완료`   |
+| 2주차    | 24.04.10 10시 | 해시          | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)   | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | `진행 완료`   |
+| 3주차    | 24.04.17 10시 | 해시, 스택/큐 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)    | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)      |               |
 
 ## 📚 스터디 참석 여부
 
