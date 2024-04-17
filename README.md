@@ -72,22 +72,22 @@
 
 ## 🗓️ 스터디 일정
 
-| **주차** | **일시**      | **분류**      | **문제 1**                                                                 | **문제 2**                                                                            | **문제 3**                                                                       | **진행 현황** |
-| -------- | ------------- | ------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------- |
-| 1주차    | 24.04.03 10시 | 정렬          | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)       | `진행 완료`   |
-| 2주차    | 24.04.10 10시 | 해시          | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)   | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | `진행 완료`   |
-| 3주차    | 24.04.17 10시 | 해시, 스택/큐 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)    | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)      |               |
+| **주차** | **일시**      | **분류**      | **문제 1**                                                                     | **문제 2**                                                                            | **문제 3**                                                                            | **진행 현황** |
+| -------- | ------------- | ------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------- |
+| 1주차    | 24.04.03 10시 | 정렬          | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)     | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)         | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)            | `진행 완료`   |
+| 2주차    | 24.04.10 10시 | 해시          | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)       | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)      | `진행 완료`   |
+| 3주차    | 24.04.17 10시 | 해시, 스택/큐 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)        | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           | `진행 완료`   |
+| 4주차    | 24.04.24 10시 | 스택/큐       | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)           | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |               |
 
 ## 📚 스터디 참석 여부
 
 | 　　\　주차<br>이름　\  | 01  | 02  | 03  | 04  | 05  | 06  | 07  | 08  | 09  | 10  | 11  | 12  | 13  |
 | :---------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- |
-| 이지선                  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |     |
-| 노현호                  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |     |
-| 성민석                  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |     |
-| 엄지희                  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |     |
-| 이충녕                  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |     |
-| 하주영                  |  O  |  X  |     |     |     |     |     |     |     |     |     |     |     |
+| 이지선                  |  O  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |
+| 노현호                  |  O  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |
+| 성민석                  |  O  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |
+| 이충녕                  |  O  |  O  |  O  |     |     |     |     |     |     |     |     |     |     |
+| 하주영                  |  O  |  X  |  O  |     |     |     |     |     |     |     |     |     |     |
 
 ## 💰 패널티
 
