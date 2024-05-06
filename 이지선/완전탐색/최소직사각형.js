@@ -15,7 +15,7 @@ function solution(sizes) {
   });
 
   // 큰 값들(switched 배열의 인덱스 0) 중 가장 큰 값과
-  // 작은 값들(switched 배열의 인덱스 1) 중 가장 작은 값을 곱하여
+  // 작은 값들(switched 배열의 인덱스 1) 중 가장 큰 값을 곱하여
   // 명함을 모두 수납 가능하면서 가장 작은 지갑의 크기를 구한다.
   const sorted = switched.sort((a, b) => b[0] - a[0]);
   const maxOfMax = Math.max(...sorted.map((v) => v[0]));
