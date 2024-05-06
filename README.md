@@ -78,7 +78,7 @@
 | 2주차    | 24.04.10 10시 | 해시                  | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)       | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)      | `진행 완료`   |
 | 3주차    | 24.04.17 10시 | 해시, 스택/큐         | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)        | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           | `진행 완료`   |
 | 4주차    | 24.04.24 10시 | 스택/큐               | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)           | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | `진행 완료`   |
-| 5주차    | 24.05.01 10시 | 스택/큐, 힙, 완전탐색 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)    | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)            | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |               |
+| 5주차    | 24.05.08 10시 | 스택/큐, 힙, 완전탐색 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)    | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)            | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |               |
 
 ## 📚 스터디 참석 여부
 
