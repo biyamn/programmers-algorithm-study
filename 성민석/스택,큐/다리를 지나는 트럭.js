@@ -19,3 +19,5 @@ const solution = (bridge_length, weight, truck_weights) => {
 
   return sec + 1;
 };
+
+
